@@ -29,3 +29,6 @@ Aggiorna le informazioni del testo, l’immagine, l’autore, il gradiente di sf
 Aggiungi un footer al di fuori della sezione principale, coloralo in nero e accertati che il colore del testo sia bianco. Aggiungi 16px per il padding (se hai fatto tutto correttamente dovrebbe comparire attaccato ai bordi sinistro, inferiore e destro).
 Aggiungi un link per l’homepage “./index.html” e centralo
 Ora dovresti essere in grado di navigare attraverso tutte le pagine utilizzando i link e ritornare all’homepage
+
+
+LIVE PREVIEW: https://luigi-c22.github.io/Epicode-Pre-corso-E3/

@@ -1,3 +1,6 @@
+
+LIVE PREVIEW: https://luigi-c22.github.io/Epicode-Pre-corso-E3/
+
 Epicode
 Pre-corso
 Esercitazione n.3
@@ -30,5 +33,3 @@ Aggiungi un footer al di fuori della sezione principale, coloralo in nero e acce
 Aggiungi un link per l’homepage “./index.html” e centralo
 Ora dovresti essere in grado di navigare attraverso tutte le pagine utilizzando i link e ritornare all’homepage
 
-
-LIVE PREVIEW: https://luigi-c22.github.io/Epicode-Pre-corso-E3/
